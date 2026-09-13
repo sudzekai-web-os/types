@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-go get github.com/sudzekai-web-os/types@latest
+go get github.com/sudzekai-web-os/types
 ```
 
 ## Результаты
