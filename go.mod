@@ -1,3 +1,3 @@
-module github.com/sudzekai/web-os-api/packages/types
+module github.com/sudzekai-web-os/types
 
 go 1.26.3
